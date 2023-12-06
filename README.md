@@ -13,3 +13,10 @@ The primary dataset set of Citibike in spreadsheet(Google sheet)
 - Google sheet for data cleaning and analyses
 - Powepoint for report
 ## Exploratory Data Analysis
+- Top 20 pick up locations
+- Average Trip Duration by Age group
+
+- Number of Bike user by Age Group!
+### Visualization
+
+
