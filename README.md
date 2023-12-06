@@ -24,7 +24,7 @@ The primary dataset set of Citibike in spreadsheet(Google sheet)
 
 ![average](https://github.com/Aanu123/Citibike/assets/109156509/ad738e18-7b05-4840-b927-8db1d873f381)
 
-![users](https://github.com/Aanu123/Citibike/assets/109156509/623918cd-dd47-4dae-a923-b5a477102817
+![users](https://github.com/Aanu123/Citibike/assets/109156509/623918cd-dd47-4dae-a923-b5a477102817)
 
 ## Findings
 - Grove St Path, Exchange Place, Sip Ave, Hamilton Park, & Morris Canal are one of the most popular pick up locations
